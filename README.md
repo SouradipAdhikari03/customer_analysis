@@ -1,4 +1,6 @@
 # Customer Behavior Analysis Project
+<img width="1377" height="775" alt="image" src="https://github.com/user-attachments/assets/db8b9098-791c-4c37-ae17-47e85262e882" />
+
 
 ## Overview
 
